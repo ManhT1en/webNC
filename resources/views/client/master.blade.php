@@ -252,7 +252,7 @@
                                 <p> {{$config->address}}</p>
                                 </li>
                                 <li><a><i class="icon-phone"></i> <span> {{$config->hotline}}</span>  </a></li>
-                                <li><a href="mailto:info@ssb.edu.vn"><i
+                                <li><a href="mailto:info@Phenikaa.edu.vn"><i
                                             class="icon-email"></i> <span> {{$config->email}}</span>  </a></li>
                                 <li><a class=""><i class="icon-home-location"> </i> <span>  1901</span> </a></li>
                                 </ul>
