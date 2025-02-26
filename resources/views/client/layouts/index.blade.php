@@ -129,10 +129,10 @@
                              <span class="sub-title fw-500 color-red text-uppercase mb-sm-10 mb-xs-5 mb-20 d-block"><img
                                     src="{{asset("assets/img/home/line.svg")}}" class="img-fluid mr-10" alt=""> Về chúng
                                 tôi</span>
-                            <h2 class="title color-pd_black mb-20 mb-sm-15 mb-xs-10">Trường Kinh doanh và lãnh đạo</h2>
+                            <h2 class="title color-pd_black mb-20 mb-sm-15 mb-xs-10">Trường Đại học Ph  enikaa</h2>
 
                             <div class="descriiption font-la mb-30 mb-md-25 mb-sm-20 mb-xs-15">
-                                <p>Trường Kinh Doanh và Lãnh Đạo ( gọi tắt là "trường SSB" ) là nhằm hướng đến xây ựng
+                                <p>Trường Đại học Phenikaa là nhằm hướng đến xây ựng
                                     các chương trình đào tạo đúng , chất lượng , chuẩn hoá cho doanh nghiệp Việt Nam và
                                     các nhà kinh doanh </p>
                             </div>
