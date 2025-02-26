@@ -1,0 +1,89 @@
+{
+    "user": [
+        {
+            "name": "quản trị viên",
+            "username": "admin",
+            "email": "johndoe@example.com",
+            "password": "123456",
+            "avatar": "avatar.png",
+            "role_id": "1"
+        }
+    ],
+    "config": [
+        {
+            "title": "SSB",
+            "description": "Trường Đại học Phenikaa",
+            "facebook": "https://www.facebook.com/Ouransoft",
+            "logo": "logo.png",
+            "favicon": "favicon.ico",
+            "hotline": "8321841",
+            "address": "Yên Nghĩa, Hà Đông, Hà Nội",
+            "email": "phenikaa@edu.vn",
+            "map": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14902.994171837472!2d105.748686!3d20.962611!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x313452efff394ce3%3A0x391a39d4325be464!2zVHLGsOG7nW5nIMSQ4bqhaSBI4buNYyBQaGVuaWthYQ!5e0!3m2!1svi!2sus!4v1740583355759!5m2!1svi!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+        }
+    ],
+    "blog": [
+        {
+            "user_id": "1",
+            "title": "Về chúng tôi",
+            "avatar": "1735780283_6775e7bb0fcad.png",
+            "description": "Trường Đại học Phenikaa",
+            "content": "test"
+        }
+    ],
+    "role": [
+        {
+            "name": "quản trị viên"
+        }
+    ],
+    "course": [
+            {
+                "title": "Marketing",
+                "description": "Khóa học marketing toàn diện",
+                "content": "Khám phá thế giới marketing đầy thú vị với khóa học chuyên sâu này.",
+                "thumbnail": "1735780141_6775e72d022ef.png"
+            },
+            {
+                "title": "Digital Marketing",
+                "description": "Tìm hiểu về marketing trong thời đại số",
+                "content": "Khám phá các kênh marketing online hiệu quả như SEO, SEM, Social Media Marketing.",
+                "thumbnail": "1735780172_6775e74c5ee58.png"
+            },
+            {
+                "title": "Marketing B2B",
+                "description": "Tìm hiểu về marketing cho doanh nghiệp",
+                "content": "Khám phá các chiến lược và kỹ thuật marketing hiệu quả để tiếp cận khách hàng doanh nghiệp.",
+                "thumbnail": "1735780196_6775e76459484.png"
+            },
+            {
+                "title": "Content Marketing",
+                "description": "Tạo nội dung hấp dẫn để thu hút khách hàng",
+                "content": "Học cách tạo ra nội dung chất lượng cao để thu hút và giữ chân khách hàng.",
+                "thumbnail": "1735780220_6775e77cdaa56.png"
+            },
+            {
+                "title": "Marketing Truyền Thông Xã Hội",
+                "description": "Tối ưu hóa hoạt động marketing trên các nền tảng mạng xã hội",
+                "content": "Học cách xây dựng thương hiệu, tăng tương tác và đạt được mục tiêu kinh doanh trên Facebook, Instagram, TikTok, v.v.",
+                "thumbnail": "1735780237_6775e78dc3657.png"
+            },
+            {
+                "title": "Marketing Email",
+                "description": "Xây dựng danh sách email và gửi chiến dịch email hiệu quả",
+                "content": "Học cách tạo ra các chiến dịch email hấp dẫn, tăng tỷ lệ mở thư và chuyển đổi khách hàng.",
+                "thumbnail": "1735780253_6775e79da77c1.png"
+            },
+            {
+                "title": "SEO - Tối ưu hóa công cụ tìm kiếm",
+                "description": "Nâng cao thứ hạng website trên kết quả tìm kiếm của Google",
+                "content": "Học các kỹ thuật SEO on-page, off-page để giúp website của bạn dễ dàng được tìm thấy bởi người dùng.",
+                "thumbnail": "1735780264_6775e7a83aee0.png"
+            },
+            {
+                "title": "Quảng cáo Google Ads",
+                "description": "Tạo và quản lý chiến dịch quảng cáo Google Ads hiệu quả",
+                "content": "Học cách sử dụng Google Ads để tiếp cận đúng đối tượng khách hàng và đạt được mục tiêu kinh doanh.",
+                "thumbnail": "1735780283_6775e7bb0fcad.png"
+            }
+    ]
+}
