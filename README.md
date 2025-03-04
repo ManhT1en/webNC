@@ -1,6 +1,9 @@
 # About Me
 # Nguyễn Mạnh Tiến - 22010151
 
+Detailed project documentation is available [here](https://docs.google.com/document/d/1FacIBiiMOwEYLdn7LyZpgLAIvaK7Kz50Sjg5pPI1CiQ/edit?usp=sharing).
+
+
 # About Project
 This project is to display school information. Administrators can add, edit, and delete courses, and receive customer information when they submit
 
