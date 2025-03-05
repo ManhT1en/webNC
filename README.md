@@ -5,30 +5,29 @@ Detailed project documentation is available [here](https://docs.google.com/docum
 
 ## Installation Guide
 
-### 1. Clone the Repository:
-```sh
+# 1. Clone the Repository:
 git clone https://github.com/ManhT1en/webNC.git
 cd SSB
 
-2. Install Dependencies:
+# 2. Install Dependencies:
 
 composer install
 npm install
 
-3. Set Up Environment Variables:
+# 3. Set Up Environment Variables:
 
 cp .env.example .env
 php artisan key:generate
 
-4. Configure Database Settings:
+# 4. Configure Database Settings:
 
 Edit the .env file to match your local database credentials.
 
-5. Run Migrations and Seed the Database:
+# 5. Run Migrations and Seed the Database:
 
 php artisan migrate --seed
 
-6. Start the Local Development Server:
+# 6. Start the Local Development Server:
 
 npm run dev
 php artisan serve
