@@ -54,11 +54,12 @@ This project is to display school information. Administrators can add, edit, and
 ![Blogs](./image/Screenshot%202025-02-27%20003505.png)
 
 ## Giao diện USER
+# Trang chủ
 ![Trang chủ](./image/Screenshot%202025-02-27%20003602.png)
-
+# Khóa học
 ![Khóa học](./image/Screenshot%202025-03-04%20172733.png)
-
+# Contact
 ![Contact](./image/Screenshot%202025-02-27%20004336.png)
-
-![Blogs](./image/Screenshot%202025-02-27%20004336.png)
+# Blogs
+![Blogs](./image/Screenshot%202025-03-04%20172827.png)
 
